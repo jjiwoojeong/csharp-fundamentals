@@ -1,2 +1,2 @@
 # csharp-fundamentals
-# awoo
+# Following along on the C# Fundamentals course on Pluralsight.
