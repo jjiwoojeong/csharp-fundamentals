@@ -61,7 +61,7 @@ namespace Gradebook
             // of elements in List grades.
             averageScore /= grades.Count;
 
-            // Final output.
+            // Final output!
             Console.WriteLine($"Highest grade: {highScore}");
             Console.WriteLine($"Lowest grade: {lowScore}");
             Console.WriteLine($"Average grade: {averageScore}");
