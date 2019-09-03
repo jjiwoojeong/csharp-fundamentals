@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dracogriff\\Documents\\C# Fundamentals Projects 2019-09\\src\\Gradebook\\Gradebook.csproj",
+      "projectUniqueName": "C:\\Users\\Dracogriff\\Documents\\GitHub\\csharp-fundamentals\\src\\Gradebook\\Gradebook.csproj",
       "projectName": "Gradebook",
-      "projectPath": "C:\\Users\\Dracogriff\\Documents\\C# Fundamentals Projects 2019-09\\src\\Gradebook\\Gradebook.csproj",
+      "projectPath": "C:\\Users\\Dracogriff\\Documents\\GitHub\\csharp-fundamentals\\src\\Gradebook\\Gradebook.csproj",
       "packagesPath": "C:\\Users\\Dracogriff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dracogriff\\Documents\\C# Fundamentals Projects 2019-09\\src\\Gradebook\\obj\\",
+      "outputPath": "C:\\Users\\Dracogriff\\Documents\\GitHub\\csharp-fundamentals\\src\\Gradebook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
